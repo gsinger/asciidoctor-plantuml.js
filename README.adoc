@@ -20,9 +20,9 @@ This project is out of maintenance. No bug fixes or feature requests are going t
 Do not be frustrated, though !
 
 There's great extension https://github.com/Mogztter/asciidoctor-kroki[asciidoctor-kroki]
-that supports PlantUML and much more, and actively maintained by developers of AsciidoctorJS.
+that supports PlantUML and much more, meanwhile being actively maintained by developers of AsciidoctorJS.
 
-I suggest everyone to migrate to `asciidoctor-kroki`
+So, the suggestion is - to migrate to `asciidoctor-kroki`
 
 ⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
 
