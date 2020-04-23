@@ -13,7 +13,7 @@ image:https://img.shields.io/travis/eshepelyuk/asciidoctor-plantuml.js?style=for
 
 endif::[]
 
-⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
+⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
 
 This project is out of maintenance. No bug fixes or feature requests are going to be processed.
 
@@ -24,7 +24,7 @@ that supports PlantUML and much more, and actively maintained by developers of A
 
 I suggest everyone to migrate to `asciidoctor-kroki`
 
-⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
+⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠⚠
 
 toc::[]
 
